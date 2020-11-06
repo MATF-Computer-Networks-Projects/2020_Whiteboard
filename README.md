@@ -1,0 +1,2 @@
+# 2020_Whiteboard
+Aplikacija za crtanje po tabli, koja moze biti deljena izmedju vise ljudi. Na pocetnom screenu bi se korisnik pitao da li hoce da napravi novu tablu ili zeli da se prikljuci nekoj vec napravljenoj preko id-ja. Osoba koja je napravila tablu moze dati mogucnost ostalim ucesnicima da pisu po tabli. Od dodatnih funkcionalnosti moze se dodati menjanje debljine i boje flomastera, kao i eventualno ispravljanje linija. 
